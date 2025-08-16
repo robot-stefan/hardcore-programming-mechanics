@@ -1,0 +1,3 @@
+This is a project I built up following along with the book [Hardcore Programming for Mechanical Engineers](https://www.hardcoreprogramming.dev/) by [Angel Orbaiceta](https://github.com/angelsolaorbaiceta). It gives a good practical dive into writing a 2d truss solver in python without using any external packages. 
+
+I highly reccomend this book for those with a mechanical, aerospace, or civil engineering background looking to get more acquainted with python and gain better exposure to computation modeling concepts. This book even goes into testing concepts which is a topic that many python tutorial books seem to leave out. 
